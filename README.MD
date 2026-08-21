@@ -132,31 +132,6 @@ The workflow runs automatically without requiring the user to open the website.
 
 ---
 
-## 📁 Project Structure
-
-```text
-daily-sky-haiku/
-│
-├── Backend/
-│   └── Lambda source code
-│
-├── Frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-│
-├── Screenshots/
-│   ├── IAM.png
-│   ├── s3.png
-│   ├── amz-eventbridge.png
-│   └── lambda-1.png
-│
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🌐 Live Website
 
 **Daily Sky Haiku:**
