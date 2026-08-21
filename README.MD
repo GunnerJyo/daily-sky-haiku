@@ -187,14 +187,6 @@ Possible future features:
 
 ---
 
-## 👨‍💻 Author
-
-**Jyothish Nalinakshan**
-
-AWS Builder Community · Developer · Creator
-
----
-
 ## 📜 License
 
 This project is created for educational and challenge purposes.
