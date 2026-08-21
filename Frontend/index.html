@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Daily Sky Haiku</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="page">
+
+        <div class="cloud">☁️</div>
+
+        <p class="eyebrow">AN AUTONOMOUS CREATIVE AGENT</p>
+
+        <h1>Daily Sky Haiku</h1>
+
+        <p class="intro">
+            Every morning, the sky inspires a new poem.
+        </p>
+
+        <section class="card">
+
+            <div class="location" id="location">
+                Loading sky...
+            </div>
+
+            <div class="haiku" id="haiku">
+                Loading today's haiku...
+            </div>
+
+            <div class="weather">
+
+                <span id="temperature">--°C</span>
+
+                <span class="dot">•</span>
+
+                <span id="humidity">--% humidity</span>
+
+            </div>
+
+            <div class="date" id="date">
+                Generated automatically
+            </div>
+
+        </section>
+
+        <p class="powered">
+            Powered by AWS Lambda · Amazon Bedrock · Nova Lite · Amazon S3
+        </p>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
